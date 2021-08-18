@@ -2,7 +2,7 @@
 Module 17: Supervised Machine Learning and Credit Risk
 
 # Overview of the Analysis
-In this analysis we will be using Machine learning to process a large amount of data to build and evaluate Credit Risk. By using Python and Scikit-learn we will be able to predict credit risk. This will help us establish the strengths and weaknesses of our machine learning models and determine how well the models work. 
+In this analysis we will be using Supervised Machine learning to process a large amount of data to build and evaluate Credit Risk. this method is use it when we know what we're looking for or what our output should be. Two of the most popular techniques are classification and regression. By using Python and Scikit-learn we will be able to predict credit risk. This will help us establish the strengths and weaknesses of our machine learning models and determine how well the models work. 
 
 # Results
 In our evaluation we have used six machine learning models and the results go as follow:
